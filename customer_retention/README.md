@@ -1,0 +1,1 @@
+The notebooks in this folder contain adhoc analyses related to customer retention.  Predominantly this is for assessing customer retention for new customers based on what was included in their first order (and comparing between groups).  
